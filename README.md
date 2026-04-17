@@ -17,6 +17,6 @@ Resonance occurs when a system is subjected to a periodic force whose frequency 
    b) Effect of Damping:
      i) Low Damping (ζ=0.1): Produces a sharp, high-amplitude peak.
      ii) High Damping (ζ=0.5): Produces a flatter, broader peak, reducing the intensity of the resonance.
-
+![Resonance Plot](resonance_graph.png)
 5. Conclusion
 The project successfully simulates periodic frequency response. It proves that resonance is highly sensitive to the match between driving and natural frequencies. In engineering, understanding these "Periodic Frequencies" is vital to ensure structures like bridges or circuits do not fail due to excessive amplitude spikes.
